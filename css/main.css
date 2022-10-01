@@ -5,7 +5,7 @@ html {
 h1,
 h2,
 h3 {
-  font-family: "Times New Roman", Georgia, serif;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 header h1 {
@@ -26,11 +26,39 @@ h3 {
 }
 
 a,
-table,
 form,
 p,
 #form-name,
 #form-email {
   font-family: Arial, Verdana, Helvetica, sans-serif;
   font-size: 1.2rem;
+}
+
+table {
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+th {
+  font-variant: small-caps;
+  text-align: left;
+  padding: 0.5em 0.6em;
+}
+
+td {
+  padding: 0.3em 0.6em;
+}
+
+tr {
+  background-color: rgb(255, 255, 255);
+}
+
+tr:nth-of-type(even) {
+  background-color: rgb(235, 233, 233);
+}
+
+td:nth-of-type(even) {
+  text-align: right;
 }
