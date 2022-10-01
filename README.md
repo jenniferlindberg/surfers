@@ -15,3 +15,7 @@ Företagets namn har fått teckensnittet cursive för at uppnå en dekorativ eff
 För allt textinnehåll används teckensnittet sans-serif, i syfte att göra texten lättläst.
 
 Serif används för samtliga rubriker.
+
+### Teckenstorlek
+
+Teckenstorleken är definierad med rem för att göra sidan responsiv.
