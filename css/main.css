@@ -1,1 +1,17 @@
+h1,
+h2,
+h3 {
+  font-family: "Times New Roman", Georgia, serif;
+}
 
+header h1 {
+  /*font-family: "Lucida Calligraphy", cursive;*/
+  font-family: "Italianno", cursive;
+}
+
+a,
+table,
+form,
+p {
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
