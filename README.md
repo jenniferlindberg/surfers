@@ -19,3 +19,7 @@ Serif används för samtliga rubriker.
 ### Teckenstorlek
 
 Teckenstorleken är definierad med rem för att göra sidan responsiv.
+
+## Tabell
+
+Tabellen har padding mellan olika delar för att göra den mer lättläst, vidare har den stora bokstäver som är i samma höjd som resterande text för kolumnnamnen, och den mellersta kolumnen är högerjusterad för att aligna siffrorna.
